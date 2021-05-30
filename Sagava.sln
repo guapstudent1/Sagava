@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SagavaVisual", "SagavaVisua
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SagavaAnime", "SagavaAnime\SagavaAnime.csproj", "{EEB98B07-66D1-4D97-9967-003E9BC322EE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SagavaFilm", "SagavaFilm\SagavaFilm.csproj", "{274EA2CB-1428-4BA8-9FB6-FD1F4AFC0D6C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{EEB98B07-66D1-4D97-9967-003E9BC322EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EEB98B07-66D1-4D97-9967-003E9BC322EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EEB98B07-66D1-4D97-9967-003E9BC322EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{274EA2CB-1428-4BA8-9FB6-FD1F4AFC0D6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{274EA2CB-1428-4BA8-9FB6-FD1F4AFC0D6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{274EA2CB-1428-4BA8-9FB6-FD1F4AFC0D6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{274EA2CB-1428-4BA8-9FB6-FD1F4AFC0D6C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
